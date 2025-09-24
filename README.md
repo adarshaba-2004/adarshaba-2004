@@ -19,4 +19,4 @@ I'm a passionate developer who loves to build cool stuff and learn new technolog
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
 
 ## 🔗 Connect with Me
-[![LinkedIn]([https://www.linkedin.com/in/adarsha-b-a-87b9a8284](https://www.linkedin.com/in/adarsha-b-a-87b9a8284))]
+[![LinkedIn](https://www.linkedin.com/in/adarsha-b-a-87b9a8284)
