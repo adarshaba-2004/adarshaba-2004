@@ -7,7 +7,7 @@ I'm a passionate developer who loves to build cool stuff and learn new technolog
 
 - 🌱 I’m currently learning: **React**, **Node.js**
 - 💬 Ask me about: **Python**, **JavaScript**, **Git**
-- 📫 How to reach me: [email@example.com](mailto:adarshaba7@gmail.com)
+- 📫 How to reach me: [email](mailto:adarshaba7@gmail.com)
 
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
