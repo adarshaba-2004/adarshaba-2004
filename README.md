@@ -64,7 +64,7 @@ I'm a passionate developer who loves to build cool stuff and learn new technolog
       <div class="project">
         <h3>To-Do App</h3>
         <p>A simple and sleek to-do list app built with JavaScript.</p>
-        <a href="https://yourtodoapp.com" target="_blank">View Project</a>
+        <a href="https://README.md" target="_blank">View Project</a>
       </div>
 
       <!-- Project 3 -->
