@@ -57,7 +57,7 @@ I'm a passionate developer who loves to build cool stuff and learn new technolog
       <div class="project">
         <h3>Portfolio Website</h3>
         <p>A responsive website to showcase my skills and projects.</p>
-        <a href="https://yourportfolio.com" target="_blank">View Project</a>
+        <a href="https://README.md" target="_blank">View Project</a>
       </div>
 
       <!-- Project 2 -->
