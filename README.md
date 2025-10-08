@@ -23,7 +23,6 @@ I'm a passionate developer who loves to build cool stuff and learn new technolog
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adarsha&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
-
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adarsha&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
@@ -31,6 +30,7 @@ I'm a passionate developer who loves to build cool stuff and learn new technolog
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adarsha&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
+
 
 
 
