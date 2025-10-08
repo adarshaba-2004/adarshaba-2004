@@ -17,12 +17,13 @@ I'm a passionate developer who loves to build cool stuff and learn new technolog
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adarsha&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshaakhilesh&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adarsha&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adarshaakhilesh&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
+
 
 
 
