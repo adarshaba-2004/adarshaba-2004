@@ -25,8 +25,6 @@ I'm a passionate developer who loves to build cool stuff and learn new technolog
 </p>
 
 
-](https://github.com/**Adarsha B A**)
-
 
 
 
