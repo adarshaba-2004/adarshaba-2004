@@ -16,7 +16,15 @@ I'm a passionate developer who loves to build cool stuff and learn new technolog
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adarshaba7&show_icons=true&theme=default)
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dadapeer-source&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dadapeer-source&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p>
+
+
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsha-b-a-87b9a8284)
