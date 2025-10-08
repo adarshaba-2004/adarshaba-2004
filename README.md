@@ -16,13 +16,13 @@ I'm a passionate developer who loves to build cool stuff and learn new technolog
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## 📈 GitHub Stats
-[<p align="center">
+[[<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdarshaBA&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdarshaBA&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
+</p>](https://github.com/adarshaba-2004/adarshaba-2004/edit/main/README.md)
 
 
 
