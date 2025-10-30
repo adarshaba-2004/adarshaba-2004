@@ -18,7 +18,7 @@ I'm a passionate developer who loves to build cool stuff and learn new technolog
 ## 📈 GitHub Stats
 [[<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdarshaBA&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>(https://github.com/adarshaba-2004/adarshaba-2004/edit/main/README.md)
+</p>(https://github.com/adarshaba-2004/adarshaba-2004)
 
 
 
