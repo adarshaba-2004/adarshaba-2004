@@ -1,3 +1,13 @@
+<think>
+First, the user has provided a GitHub profile README code and asked to "Alter the code and give me as correct code." It seems like there might be some errors or issues in the provided code that need fixing.
+
+
+## Examining user request  
+- The user submitted a GitHub profile README code and asked to "Alter the code and give me as correct code."  
+- This suggests there may be errors or issues in the provided code that need addressing.  
+- The focus is on identifying and fixing problems to improve the code's functionality.  
+- The task involves analyzing the code to ensure it meets expected standards or requirements.
+</think>```markdown
 # Hi there 👋
 
 Welcome to my GitHub profile!
@@ -16,23 +26,15 @@ I'm a passionate developer who loves to build cool stuff and learn new technolog
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## 📈 GitHub Stats
-[[<p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdarshaBA&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  (https://github.com/adarshaba-2004/adarshaba-2004/edit/main/adarshaba-2004)
 </p>
-
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdarshaBA&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  (https://github.com/adarshaba-2004/adarshaba-2004/edit/main/adarshaba-2004)
-</p>]
-
-
-
-
-
+</p>
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsha-b-a-87b9a8284)
 [![Email](https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshaba7@gmail.com)
+```
