@@ -34,6 +34,11 @@ I'm a passionate developer who loves to build cool stuff and learn new technolog
   <img src="https://github-readme-stats.vercel.app/api?username=adarshaba-2004&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
 </p>
 
+<h2 align="center">🛠 Languages & Tools</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,cpp,php,mysql,git,github,react" />
+</p>
+
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsha-b-a-87b9a8284)
 [![Email](https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshaba7@gmail.com)
