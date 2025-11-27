@@ -1,7 +1,6 @@
 <think>
-First, the user has provided a GitHub profile README code and asked to "Alter the code and give me as correct code." It seems like there might be some errors or issues in the provided code that need fixing.
-
-
+[First, the user has provided a GitHub profile README code and asked to "Alter the code and give me as correct code." It seems like there might be some errors or issues in the provided code that need fixing.]
+  (https://github.com/adarshaba-2004/adarshaba-2004/blob/main/README.md)
 ## Examining user request  
 - The user submitted a GitHub profile README code and asked to "Alter the code and give me as correct code."  
 - This suggests there may be errors or issues in the provided code that need addressing.  
@@ -35,6 +34,11 @@ I'm a passionate developer who loves to build cool stuff and learn new technolog
 </p>
 
 <h2 align="center">🛠 Languages & Tools</h2>
+<h2 align="c  c++"
+  <h2 align="java"
+  <h2 align="python"
+  <h2 align="HTML"
+  <h2 align="CSS"
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,cpp,php,mysql,git,github,react" />
 </p>
