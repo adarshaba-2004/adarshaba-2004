@@ -19,7 +19,7 @@ I'm a passionate developer who loves to build cool stuff and learn new technolog
 ## 📈 GitHub Stats
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarshaba-2004&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adarshaba-2004&show_icons=true&locale=en&theme=radical" />
 </p>
 
 
